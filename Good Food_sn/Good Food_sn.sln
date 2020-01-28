@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good Food", "Good Food\Good Food.csproj", "{D50CBB6C-6F30-4424-BCF7-EDA04A60E538}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestiune_Parc_ Auto", "Good Food\Gestiune_Parc_ Auto.csproj", "{D50CBB6C-6F30-4424-BCF7-EDA04A60E538}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

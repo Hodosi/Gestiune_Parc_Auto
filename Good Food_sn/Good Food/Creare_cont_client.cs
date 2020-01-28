@@ -19,7 +19,7 @@ namespace Good_Food
 
         private void Creare_cont_client_Load(object sender, EventArgs e)
         {
-            string fn = Application.StartupPath + @"\Resurse_C#\good-food-4.jpg";
+            string fn = Application.StartupPath + @"\Resurse_C#\Reclama.jpg";
             this.pictureBox1.Image = Image.FromFile(fn);
         }
 

@@ -32,7 +32,7 @@ namespace Good_Food
             {
                 int id = client.getClientId(email);
                 GLOBAL.GlobalClientid = id;
-                Optiuni op = new Optiuni();
+                Masini op = new Masini();
                 op.ShowDialog();
             }
             else
