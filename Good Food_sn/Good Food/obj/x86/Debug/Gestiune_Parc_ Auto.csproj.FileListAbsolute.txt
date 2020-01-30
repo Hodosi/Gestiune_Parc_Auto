@@ -7,3 +7,14 @@ C:\Users\user\Desktop\Gestiunea unui parc auto\Csharp-Olimpiada-2016-Good-Food\G
 C:\Users\user\Desktop\Gestiunea unui parc auto\Csharp-Olimpiada-2016-Good-Food\Good Food_sn\Good Food\obj\x86\Debug\Gestiune_Parc_ Auto.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\Gestiunea unui parc auto\Csharp-Olimpiada-2016-Good-Food\Good Food_sn\Good Food\obj\x86\Debug\Good Food.exe
 C:\Users\user\Desktop\Gestiunea unui parc auto\Csharp-Olimpiada-2016-Good-Food\Good Food_sn\Good Food\obj\x86\Debug\Good Food.pdb
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\obj\x86\Debug\Good Food.exe
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\obj\x86\Debug\Good Food.pdb
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\bin\Debug\Good Food.exe
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\bin\Debug\Good Food.pdb
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\obj\x86\Debug\Good_Food.Autentificare_client.resources
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\obj\x86\Debug\Good_Food.Creare_cont_client.resources
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\obj\x86\Debug\Good_Food.Start.resources
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\obj\x86\Debug\Good_Food.Properties.Resources.resources
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\obj\x86\Debug\Gestiune_Parc_ Auto.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\obj\x86\Debug\Good_Food.Masini.resources
+C:\Users\user\Desktop\Parc auto\Gestiune_Parc_Auto\Good Food_sn\Good Food\obj\x86\Debug\Gestiune_Parc_ Auto.csprojResolveAssemblyReference.cache
